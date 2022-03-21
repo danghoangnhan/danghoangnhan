@@ -1,17 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
-<a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100007828291408" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1836/1836149.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/daniel-du-4734081b8/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/21zyxoohrdtmmdsazt6als2ki?si=e5c328366d524189" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/teddddy.bearrrrr/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/21zyxoohrdtmmdsazt6als2ki?si=e5c328366d524189" target="_blank"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/spotify-2690370-2232873.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-Hi, I'm [DanielDu](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 and a data engineer from Taiwan. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** .
-I support Manchester United 👿.
-
+Hi, I'm [DanielDu](https://danghoangnhan.github.io/), a web developer 👨🏻‍💻 and a data scientist from Taiwan. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.**Proud to be your partner in the near future.** .
 <br>
 
 
