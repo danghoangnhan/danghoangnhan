@@ -7,14 +7,19 @@
 <a href="https://open.spotify.com/user/21zyxoohrdtmmdsazt6als2ki?si=e5c328366d524189" target="_blank"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/spotify-2690370-2232873.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-Hi, I'm [DanielDu](https://danghoangnhan.github.io/), a web developer 👨🏻‍💻 and a data scientist from Taiwan. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.**Proud to be your partner in the near future.** .
+Hi, I'm DanielDu,
+graduated student in computer science mayjor from taiwan ,
+i have 3 three years working experience , i can work as  devops developers.
+  and a data scientist from Taiwan. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.**Proud to be your partner in the near future.** .
 <br>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 my gmail: [danghoangnhan.1@gmail.com](mailto:danghoangnhan.1@gmail.com);
+<img align="right" size="100" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
+
  <!-- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/) -->
+
  
  <br>
 
@@ -42,7 +47,7 @@ Hi, I'm [DanielDu](https://danghoangnhan.github.io/), a web developer 👨🏻�
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
 <br>
 
-**Frontend Framework:**
+**web Frontend :**
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -60,6 +65,14 @@ Hi, I'm [DanielDu](https://danghoangnhan.github.io/), a web developer 👨🏻�
     <img height = "20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" >
   </code>
 <br>
+<br>
+
+**mobile**
+<br>
+  <code>
+    <img height = "20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  </code>
+
 
 **VCS:**
 <br>
@@ -86,7 +99,9 @@ Hi, I'm [DanielDu](https://danghoangnhan.github.io/), a web developer 👨🏻�
   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" >
 </code>
 <code>
-  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
+  <img height="20" src="https://www.seekpng.com/png/full/70-704617_white-on-transparent-kafka-logo-svg.png
+">
+  
 </code>
 <code>
   <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png" >
@@ -143,8 +158,13 @@ Hi, I'm [DanielDu](https://danghoangnhan.github.io/), a web developer 👨🏻�
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu" />
+<div style="display: flex; justify-content: space-between;">
+  <!-- <p style="flex-basis: 49.5%; background-color: papayawhip;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget luctus lacus. Cras consectetur elementum mi sed consequat.</p> -->
+  <p align="left" style="display: flex; justify-content: space-between;"> <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu" />
+  <p align="left"  style="flex-basis: 49.5%; background-color: palegoldenrod;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu" />
+  <!-- 49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content -->
 
+</div>
 </details>
 
 </br>
