@@ -7,14 +7,17 @@
 <a href="https://open.spotify.com/user/21zyxoohrdtmmdsazt6als2ki?si=e5c328366d524189" target="_blank"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/spotify-2690370-2232873.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-Hi, I'm DanielDu,
-graduated student in computer science mayjor from taiwan ,
-i have 3 three years working experience , i can work as  devops developers.
-  and a data scientist from Taiwan. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.**Proud to be your partner in the near future.** .
+Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems,
+ Within  3 three years working experience in web's development,i can work as web developer, devops engineer, linux administrator. I also love the AI field, especially Deep Learning, currently i'm working on Object engineer laboratory on computer science department,FJCU. Consider my repositories if you find my project interesting, at least your star could make someone's day.
+
 <br>
 
+![Age](https://img.shields.io/badge/age-23-blue)
+[![Living](https://img.shields.io/badge/Living-Taipei%2C%20Taiwan-blue)](https://en.wikipedia.org/wiki/Taipei)
 
+[![Learning](https://img.shields.io/badge/Learning%20at-FuJen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
 
+<!-- ![](https://komarev.com/ghpvc/?username=danghoangnhan&color=brightgreen&style=flat) -->
 <img align="right" size="100" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 
@@ -155,18 +158,16 @@ i have 3 three years working experience , i can work as  devops developers.
 
 <hr>
 
-<details>
 <summary>📈 My GitHub Stats</summary>
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- <p style="flex-basis: 49.5%; background-color: papayawhip;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget luctus lacus. Cras consectetur elementum mi sed consequat.</p> -->
-  <p align="left" style="flex-basis: 49% display: flex; justify-content: space-between;"> <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu" />
-  <p align="right"  style="flex-basis: 49%; "> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu" />
-  <!-- 49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content -->
 
-</div>
-</details>
 
+
+
+  <p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu" />
+</p>
 </br>
 
 <!-- <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
