@@ -160,8 +160,8 @@ i have 3 three years working experience , i can work as  devops developers.
 
 <div style="display: flex; justify-content: space-between;">
   <!-- <p style="flex-basis: 49.5%; background-color: papayawhip;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget luctus lacus. Cras consectetur elementum mi sed consequat.</p> -->
-  <p align="left" style="display: flex; justify-content: space-between;"> <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu" />
-  <p align="right"  style="flex-basis: 49.5%; "> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu" />
+  <p align="left" style="flex-basis: 49% display: flex; justify-content: space-between;"> <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu" />
+  <p align="right"  style="flex-basis: 49%; "> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu" />
   <!-- 49.5% + 49.5% = 99%, remaining 1% is distributed according to justify-content -->
 
 </div>
