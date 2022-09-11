@@ -102,7 +102,7 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" >
 </code>
 <code>
-  <img height="20" src="https://www.seekpng.com/png/full/70-704617_white-on-transparent-kafka-logo-svg.png
+  <img height="20" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_178,h_287/https://assets.ubuntu.com/v1/ce971717-Kafka-logo-badge-white.svg
 ">
   
 </code>
@@ -159,14 +159,9 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 <hr>
 
 <summary>📈 My GitHub Stats</summary>
-
-
-
-
-
   <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu"  width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu"  width="45%"/>
 </p>
 </br>
 
