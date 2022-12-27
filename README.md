@@ -66,38 +66,13 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Database:
-![SQL Server](https://img.shields.io/badge/-SQL-1d586e.svg?style=flat&logo=SQL)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2da888.svg?style=flat-square&logo=mongodb)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache%20cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
 
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-    >
-</code>
-<code>
-  <img
-  height="20"
-  src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_178,h_287/https://assets.ubuntu.com/v1/ce971717-Kafka-logo-badge-white.svg"
-  >
-</code>
-<code>
-  <img
-    height="20"
-    src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png"
-    >
-</code>
 <br>
 
 ## OS:
