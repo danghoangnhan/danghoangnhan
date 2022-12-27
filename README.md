@@ -37,13 +37,6 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-<code>
-  <img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>
-
-
 ##  DeepLearning Framework:
 
 ![Numpy](https://img.shields.io/badge/-Numpy-55a2e0.svg?style=flat&logo=Numpy)
@@ -56,40 +49,15 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 
 <br>
 
-**web Frontend :**
-<br>
+## web Frontend :
+![HTML5](https://img.shields.io/badge/-HTML5-55a2e0.svg?style=flat&logo=html5)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Css](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Material--UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
-<code>
-  <img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-  />
-</code>
-<code>
-  <img
-    height = "20"
-    src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-  />
-</code>
-<code>
-  <img
-    height = "20"
-    src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    />
-</code>
-<code>
-  <img
-    height = "20"
-    src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-  />
-</code>
-<code>
-  <img
-    height ="20"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-    />
-</code>
-<br>
+
 
 **Backend's Framework and library**
 <br>
