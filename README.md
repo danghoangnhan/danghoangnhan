@@ -28,16 +28,11 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 - 🔗 My website: [https://danghoangnhan.github.io/](https://danghoangnhan.github.io/)
 <br>
 
-**Programming Languages:**
-<br>
+## Programming Languages:
+![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
+![C](https://img.shields.io/badge/-C-ffffff.svg?style=flat&logo=C)
+![PHP](https://img.shields.io/badge/-PHP-ffffff.svg?style=flat&logo=php)
 
-<code>
-<img
-  height="20"
-  src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"
-/>
-
-</code>
 <code>
   <img
     height="20"
