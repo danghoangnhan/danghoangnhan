@@ -56,32 +56,20 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
-**mobile**
-<br>
+## Mobile:
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-<code>
-  <img
-    height = "20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-  />
-</code>
 
 ## VCS:
 ![Git](https://img.shields.io/badge/-Git-black.svg?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Database:**
-<br>
+## Database:
+![SQL Server](https://img.shields.io/badge/-SQL-1d586e.svg?style=flat&logo=SQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2da888.svg?style=flat-square&logo=mongodb)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-<code>
-  <img height="20"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
->
-</code>
-<code>
-  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-</code>
 <code>
   <img
     height="20"
