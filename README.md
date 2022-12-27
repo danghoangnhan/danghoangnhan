@@ -147,27 +147,12 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 </code>
 <br>
 
-**some familiar ide**
-<br>
-
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
-    >
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    >
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
-    >
-</code>
+##  IDE:
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![NeoVim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
+![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white)
 
 ---
 
