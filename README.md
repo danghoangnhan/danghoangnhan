@@ -100,7 +100,11 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 </code>
 <br>
 
-**Operating system**
+## OS:
+![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
 <br>
 
 <code>
