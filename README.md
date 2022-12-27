@@ -45,37 +45,16 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![Plotly](https://img.shields.io/badge/Plotly-fca862.svg?style=flat&logo=plotly&logoColor=white)
 ![Tensorflow 2](https://img.shields.io/badge/-Tensorflow-a8502f.svg?style=flat&logo=Tensorflow)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-<br>
-
 ## web Frontend :
 ![HTML5](https://img.shields.io/badge/-HTML5-55a2e0.svg?style=flat&logo=html5)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-![Css](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Material--UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
-
-
-**Backend's Framework and library**
-<br>
-
-<code>
-  <img
-    height = "20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-  >
-</code>
-<code>
-  <img
-    height = "20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"
-  />
-</code>
-<br>
-<br>
+## Web Backend:
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
 **mobile**
 <br>
