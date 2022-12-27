@@ -66,28 +66,10 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
   />
 </code>
 
-**VCS:**
-<br>
-
-<code>
-  <img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-  >
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
-  >
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    >
-</code>
-<br>
+## VCS:
+![Git](https://img.shields.io/badge/-Git-black.svg?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 **Database:**
 <br>
