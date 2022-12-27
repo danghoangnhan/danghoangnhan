@@ -61,9 +61,9 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 
 
 ## VCS:
-![Git](https://img.shields.io/badge/-Git-black.svg?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
 
 ## Database:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
@@ -72,18 +72,15 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache%20cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
-
-<br>
-
 ## OS:
 ![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-## Devops tools:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+## Devops:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ##  IDE:
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
