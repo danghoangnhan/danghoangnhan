@@ -30,56 +30,19 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 
 ## Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
-![C](https://img.shields.io/badge/-C-ffffff.svg?style=flat&logo=C)
-![PHP](https://img.shields.io/badge/-PHP-ffffff.svg?style=flat&logo=php)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<code>
-  <img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-  />
-</code>
-<code>
-  <img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-  >
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-  >
-</code>
-<code>
-  <img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-  </code>
-<code>
-  <img
-    height="20"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
-      >
-    </code>
 <code>
   <img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>
-<code>
-  <img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-  />
-</code>
-<br>
-<br>
+
 
 **DeepLearning Framework:**
 <br>
