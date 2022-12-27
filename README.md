@@ -105,22 +105,6 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-<br>
-
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-  >
-</code>
-<code>
-  <img
-    height="20"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"
-  >
-</code>
-<br>
-
 **Devops tools:**
 <br>
 
