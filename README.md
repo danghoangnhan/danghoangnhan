@@ -28,7 +28,8 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 - 🔗 My website: [https://danghoangnhan.github.io/](https://danghoangnhan.github.io/)
 <br>
 
-## Programming Languages:
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -37,7 +38,7 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-##  DeepLearning Framework:
+## DeepLearning Framework
 
 ![Numpy](https://img.shields.io/badge/-Numpy-55a2e0.svg?style=flat&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-5d4296.svg?style=flat&logo=Pandas)
@@ -45,43 +46,53 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![Plotly](https://img.shields.io/badge/Plotly-fca862.svg?style=flat&logo=plotly&logoColor=white)
 ![Tensorflow 2](https://img.shields.io/badge/-Tensorflow-a8502f.svg?style=flat&logo=Tensorflow)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch)
-## web Frontend :
+
+## web Frontend
+
 ![HTML5](https://img.shields.io/badge/-HTML5-55a2e0.svg?style=flat&logo=html5)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Material--UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
-## Web Backend:
+## Web Backend
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
-## Mobile:
+## Mobile
+
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
+## VCS
 
-## VCS:
 ![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
 
-## Database:
+## Database
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2da888.svg?style=flat-square&logo=mongodb)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache%20cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
-## OS:
+
+## OS
+
 ![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-## Devops:
+## Devops
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-##  IDE:
+
+## IDE
+
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
@@ -92,8 +103,13 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 
 ### 📢 Find me elsewhere
   
-  <a href="https://leetcode.com/danghoangnhan/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  <a href="https://leetcode.com/danghoangnhan">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" style="vertical-align:top; margin:4px"
+    >
+  </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/danghoangnhan_1?hr_r=1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerank" style="vertical-align:top; margin:4px"
+    >
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
