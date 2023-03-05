@@ -1,11 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100007828291408" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1836/1836149.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/daniel-du-4734081b8/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/teddddy.bearrrrr/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/21zyxoohrdtmmdsazt6als2ki?si=e5c328366d524189" target="_blank"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/spotify-2690370-2232873.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:danghoangnhan.1@gmail.com)
+[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)
+
 <br>
 Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems,
  Within  3 three years working experience in web's development,i can work as web developer, devops engineer, linux administrator. I also love the AI field, especially Deep Learning, currently i'm working on Object engineer laboratory on computer science department,FJCU. Consider my repositories if you find my project interesting, at least your star could make someone's day.
