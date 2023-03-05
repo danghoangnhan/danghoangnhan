@@ -102,9 +102,9 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 
 ### 📢 Find me elsewhere
   
-  <a href="https://leetcode.com/danghoangnhan">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" style="vertical-align:top; margin:4px"
-    >
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/danghoangnhan)
+
+
   </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/danghoangnhan_1?hr_r=1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerank" style="vertical-align:top; margin:4px"
