@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:danghoangnhan.1@gmail.com)
-[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)
 
 <br>
 Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems,
@@ -97,6 +97,8 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white)
 
 ---
+<!-- ![nghongnhn](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nghongnhn)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook) -->
 
 ### 📢 Find me elsewhere
   
