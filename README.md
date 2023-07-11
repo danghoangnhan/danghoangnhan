@@ -1,28 +1,24 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danghoangnhan.1@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)<br>
 
-<br>
-Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems,
- Within  3 three years working experience in web's development,i can work as web developer, devops engineer, linux administrator. I also love the AI field, especially Deep Learning, currently i'm working on Object engineer laboratory on computer science department,FJCU. Consider my repositories if you find my project interesting, at least your star could make someone's day.
 
-<br>
 
-![Age](https://img.shields.io/badge/age-23-blue)
-[![Living](https://img.shields.io/badge/Living-Taipei%2C%20Taiwan-blue)](https://en.wikipedia.org/wiki/Taipei)
+Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems.
+I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
 
 [![Learning](https://img.shields.io/badge/Learning%20at-FuJen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
 
-<!-- ![](https://komarev.com/ghpvc/?username=danghoangnhan&color=brightgreen&style=flat) -->
-<img
-  align="right"
-  size="75"
-  alt="GIF"
-  src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif"
-/>
+<br/>
 
-- 🔗 My website: [https://danghoangnhan.github.io/](https://danghoangnhan.github.io/)
+[img
+align="right"
+size="75"
+alt="GIF"
+src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif"
+/](%E2%80%B8img%0Aalign=%22right%22%0Asize=%2275%22%0Aalt=%22GIF%22%0Asrc=%22https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif%22%0A/)
+
 <br>
 
 ## Programming Languages
@@ -97,12 +93,11 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white)
 
 ---
-<!-- ![nghongnhn](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nghongnhn)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook) -->
+
+![nghongnhn](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nghongnhn)
 
 ### 📢 Find me elsewhere
-  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/danghoangnhan)
+
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/danghoangnhan_1?hr_r=1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nghongnhn)
 
@@ -119,6 +114,7 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 
 <!-- <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" /> -->
+
 </a>
 <!-- <a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" /> -->
