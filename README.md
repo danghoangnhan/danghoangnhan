@@ -3,18 +3,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danghoangnhan.1@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)<br>
 
-
-
 Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems.
 I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
-
 
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -33,7 +29,6 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 ![HTML5](https://img.shields.io/badge/-HTML5-55a2e0.svg?style=flat&logo=html5)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Material--UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
 ## Web Backend
@@ -82,14 +77,17 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 ---
 
-![nghongnhn](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nghongnhn)
-
-### 📢 Find me elsewhere
+📢 Find me elsewhere
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/danghoangnhan_1?hr_r=1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nghongnhn)
 
-</p>
+
+
+
+|         |
+| --------- |
+| <br /> |
 
 <hr>
 
