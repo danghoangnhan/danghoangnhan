@@ -10,25 +10,6 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 [![Learning](https://img.shields.io/badge/Learning%20at-FuJen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
 
-<br/>
-
-[img
-align="right"
-size="75"
-alt="GIF"
-src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif"
-/](%E2%80%B8img%0Aalign=%22right%22%0Asize=%2275%22%0Aalt=%22GIF%22%0Asrc=%22https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif%22%0A/)
-
-
-| **<img** |
-| ---------- |
-|          |
-|          |
-|          |
-|          |
-|          |
-
-<br>
 
 ## Programming Languages
 
