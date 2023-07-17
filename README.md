@@ -10,7 +10,6 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -28,7 +27,6 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-55a2e0.svg?style=flat&logo=html5)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Css](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![Material--UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
 ## Web Backend
