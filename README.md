@@ -23,9 +23,7 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 ## OS
 
-![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
 
 ## Devops
 
@@ -47,8 +45,7 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 | Web Frontend          | ![HTML5](https://img.shields.io/badge/-HTML5-55a2e0.svg?style=flat&logo=html5) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)   |
 | Web Backend           | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  |
 | Mobile                | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)       |
-| VCS                   | Git                                          |
-|                       | GitHub, GitLab                               |
+| VCS                   | ![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  |
 | Database              | Microsoft SQL Server, MongoDB, MySQL, etc.   |
 | OS                    | Windows, Debian, Ubuntu                      |
 | Devops                | Docker, Jenkins, Kubernetes                  |
