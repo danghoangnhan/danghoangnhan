@@ -7,14 +7,6 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
 
 
-## DeepLearning Framework
-
-![Numpy](https://img.shields.io/badge/-Numpy-55a2e0.svg?style=flat&logo=Numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-5d4296.svg?style=flat&logo=Pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib)
-![Plotly](https://img.shields.io/badge/Plotly-fca862.svg?style=flat&logo=plotly&logoColor=white)
-![Tensorflow 2](https://img.shields.io/badge/-Tensorflow-a8502f.svg?style=flat&logo=Tensorflow)
-![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch)
 
 ## web Frontend
 
@@ -67,9 +59,7 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 | Category              | Technology/Language                          |
 |-----------------------|----------------------------------------------|
 | Programming Languages | ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
-| DeepLearning Framework| Numpy, Pandas                                |
-|                       | Matplotlib, Plotly                           |
-|                       | Tensorflow 2, Pytorch                        |
+| DeepLearning Framework| ![Pandas](https://img.shields.io/badge/-Pandas-5d4296.svg?style=flat&logo=Pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib) ![Plotly](https://img.shields.io/badge/Plotly-fca862.svg?style=flat&logo=plotly&logoColor=white) ![Tensorflow ](https://img.shields.io/badge/-Tensorflow-a8502f.svg?style=flat&logo=Tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch)   |
 | Web Frontend          | HTML5                                        |
 |                        | React                                        |
 | Web Backend           | Django                                       |
