@@ -7,8 +7,7 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
 
 
-
-| Category              | Technology/Language                          |
+| Category              | Library/Language/FrameWork                          |
 |-----------------------|----------------------------------------------|
 | Programming Languages | ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
 | DeepLearning Framework| ![Pandas](https://img.shields.io/badge/-Pandas-5d4296.svg?style=flat&logo=Pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib) ![Plotly](https://img.shields.io/badge/Plotly-fca862.svg?style=flat&logo=plotly&logoColor=white) ![Tensorflow ](https://img.shields.io/badge/-Tensorflow-a8502f.svg?style=flat&logo=Tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch)   |
@@ -20,8 +19,6 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 | VCS                    | ![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)                     |
 | Devops                | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)                  |
 | IDE                   | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![NeoVim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)                   |
-
-
 
 
 📢 Find me elsewhere
