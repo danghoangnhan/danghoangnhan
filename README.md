@@ -14,12 +14,7 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 ## Database
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-2da888.svg?style=flat-square&logo=mongodb)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache%20cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
+
 
 ## OS
 
@@ -45,9 +40,9 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 | Web Frontend          | ![HTML5](https://img.shields.io/badge/-HTML5-55a2e0.svg?style=flat&logo=html5) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)   |
 | Web Backend           | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  |
 | Mobile                | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)       |
-| VCS                   | ![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  |
-| Database              | Microsoft SQL Server, MongoDB, MySQL, etc.   |
-| OS                    | Windows, Debian, Ubuntu                      |
+| OS                   | ![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  |
+| Database              | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-2da888.svg?style=flat-square&logo=mongodb) ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache%20cassandra&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)   |
+| VCS                    | Windows, Debian, Ubuntu                      |
 | Devops                | Docker, Jenkins, Kubernetes                  |
 | IDE                   | Visual Studio Code, NeoVim                   |
 
