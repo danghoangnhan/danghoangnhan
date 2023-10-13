@@ -85,10 +85,11 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 <hr>
 
 <summary>📈 My GitHub Stats</summary>
-  <p float="left">
+<p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu"  width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu"  width="45%"/>
 </p>
+
 </br>
 
 <!-- <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
