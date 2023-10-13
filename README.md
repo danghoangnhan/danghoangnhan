@@ -66,11 +66,11 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 | Category              | Technology/Language                          |
 |-----------------------|----------------------------------------------|
-| Programming Languages | ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)   |
-|                       | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  |
-|                       | ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-|                       | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
-|                       | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
+| Programming Languages | ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)   
+                          ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+                          ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+                          ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+                          ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
 | DeepLearning Framework| Numpy, Pandas                                |
 |                       | Matplotlib, Plotly                           |
 |                       | Tensorflow 2, Pytorch                        |
