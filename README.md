@@ -6,11 +6,6 @@
 Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems.
 I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
 
-
-## Mobile
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
 ## VCS
 
 ![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git)
@@ -51,7 +46,7 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 | DeepLearning Framework| ![Pandas](https://img.shields.io/badge/-Pandas-5d4296.svg?style=flat&logo=Pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib) ![Plotly](https://img.shields.io/badge/Plotly-fca862.svg?style=flat&logo=plotly&logoColor=white) ![Tensorflow ](https://img.shields.io/badge/-Tensorflow-a8502f.svg?style=flat&logo=Tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch)   |
 | Web Frontend          | ![HTML5](https://img.shields.io/badge/-HTML5-55a2e0.svg?style=flat&logo=html5) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)   |
 | Web Backend           | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  |
-| Mobile                | Android Studio                               |
+| Mobile                | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)       |
 | VCS                   | Git                                          |
 |                       | GitHub, GitLab                               |
 | Database              | Microsoft SQL Server, MongoDB, MySQL, etc.   |
