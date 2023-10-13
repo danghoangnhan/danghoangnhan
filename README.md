@@ -6,13 +6,6 @@
 Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems.
 I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
 
-## Programming Languages
-
-![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ## DeepLearning Framework
 
@@ -70,6 +63,35 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 ![NeoVim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
 
 ---
+
+| Category              | Technology/Language                          |
+|-----------------------|----------------------------------------------|
+| Programming Languages | ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)                                       |
+|                       | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+                                          |
+|                       | ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+                                   |
+|                       | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+                                         |
+|                       | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+                                  |
+| DeepLearning Framework| Numpy, Pandas                                |
+|                       | Matplotlib, Plotly                           |
+|                       | Tensorflow 2, Pytorch                        |
+| Web Frontend          | HTML5                                        |
+|                       | React                                        |
+| Web Backend           | Django                                       |
+|                       | Spring                                       |
+| Mobile                | Android Studio                               |
+| VCS                   | Git                                          |
+|                       | GitHub, GitLab                               |
+| Database              | Microsoft SQL Server, MongoDB, MySQL, etc.   |
+| OS                    | Windows, Debian, Ubuntu                      |
+| Devops                | Docker, Jenkins, Kubernetes                  |
+| IDE                   | Visual Studio Code, NeoVim                   |
+
+
+
 
 📢 Find me elsewhere
 
