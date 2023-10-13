@@ -8,13 +8,6 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 ## VCS
 
-![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
-
-
-
-## Devops
 
 
 
@@ -34,7 +27,7 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 | Mobile                | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)       |
 | OS                   | ![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  |
 | Database              | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-2da888.svg?style=flat-square&logo=mongodb) ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache%20cassandra&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)   |
-| VCS                    | Windows, Debian, Ubuntu                      |
+| VCS                    | ![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)                     |
 | Devops                | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)                  |
 | IDE                   | Visual Studio Code, NeoVim                   |
 
