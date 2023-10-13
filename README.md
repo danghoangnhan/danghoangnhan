@@ -49,7 +49,7 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 <!-- <a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" /> -->
 </a>
-<div align="center">
+
 <div align="center">  
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&show_offline=false&bar_color_cover=true"/>
