@@ -66,11 +66,8 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 
 ## IDE
 
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white)
 
 ---
 
