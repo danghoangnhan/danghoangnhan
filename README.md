@@ -6,6 +6,7 @@
 Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems.
 I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
 
+### 📢 All i know
 
 | Category              | Library/Language/FrameWork                          |
 |-----------------------|----------------------------------------------|
