@@ -6,17 +6,7 @@
 Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems.
 I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
 
-## VCS
 
-
-
-
-## IDE
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![NeoVim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
-
----
 
 | Category              | Technology/Language                          |
 |-----------------------|----------------------------------------------|
@@ -29,7 +19,7 @@ I also love the AI field, especially Deep Learning. Consider my repositories if 
 | Database              | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-2da888.svg?style=flat-square&logo=mongodb) ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache%20cassandra&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)   |
 | VCS                    | ![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)                     |
 | Devops                | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)                  |
-| IDE                   | Visual Studio Code, NeoVim                   |
+| IDE                   | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![NeoVim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)                   |
 
 
 
