@@ -1,7 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danghoangnhan.1@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)
+![Visitor Count](https://profile-counter.glitch.me/{danghoangnhan}/count.svg)
+
+
+<br>
 
 Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems.
 I also love the AI field, especially Deep Learning. Consider my repositories if you find my project interesting.
