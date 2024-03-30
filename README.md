@@ -8,7 +8,7 @@
 
 <br>
 
-Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems, Consider my repositories if you find my project interesting.
+Hi, I'm Daniel, a Computer Science student, passionate in solving real-world problems.
 
 ### 📢 All i know about
 
