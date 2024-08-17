@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](https://www.linkedin.com/in/daniel-du-4734081b8)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0137e97e7cd8dca842?mp_source=share)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/callmedanieldu)
+[![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/danield-cz0scmb)
 
 ![Visitor Count](https://profile-counter.glitch.me/{danghoangnhan}/count.svg)
 
