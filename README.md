@@ -31,11 +31,6 @@ Hi, I'm Daniel, a Computer Science student, passionate in solving real-world pro
 | Devops                | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)                  |
 | IDE                   | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![NeoVim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)                   |
 
-### Certificate
-  ![Description of the image](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84196603)
-
-
-
 <hr>
 
 <summary>📈 My GitHub Stats</summary>
